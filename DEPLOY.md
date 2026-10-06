@@ -36,3 +36,10 @@ Nötige Repository-Secrets: `CLOUDFLARE_API_TOKEN` (Rechte: Workers, D1, R2), `C
 - `deploy/import.sql` einmalig ausführen – sonst werden Daten doppelt eingefügt.
 - Die Dateien in `build/` und `scripts/connector-preview` stammen aus der alten Umgebung und werden
   für den Build weiterhin benötigt; nicht löschen.
+
+## Lokal testen
+```bash
+bash deploy/local-test.sh          # baut, importiert die Daten, startet auf http://127.0.0.1:8787 (Passwort: konficamp)
+bash deploy/smoke-test.sh          # zweites Terminal: automatischer Funktionstest
+```
+Der Browser muss `127.0.0.1`/`localhost` verwenden (das Login-Cookie ist `Secure`; Safari akzeptiert das lokal nicht – dann Chrome oder Firefox nehmen).
