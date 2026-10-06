@@ -1,0 +1,1 @@
+ALTER TABLE `materials` ADD `consumable` integer DEFAULT false NOT NULL;

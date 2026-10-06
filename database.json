@@ -1,0 +1,3716 @@
+{
+  "exportedAt": "2026-10-06T14:47:35.441Z",
+  "projectId": "appgprj_6abbda4efc9481919a7f8682895e163d",
+  "tables": {
+    "camp_units": [
+      {
+        "id": 1,
+        "name": "Abend der Stille"
+      },
+      {
+        "id": 2,
+        "name": "Berufung"
+      },
+      {
+        "id": 3,
+        "name": "Spiele-Abend"
+      },
+      {
+        "id": 4,
+        "name": "Andacht"
+      },
+      {
+        "id": 5,
+        "name": "Nachtwanderung"
+      },
+      {
+        "id": 6,
+        "name": "Heilung des Gelähmten"
+      },
+      {
+        "id": 7,
+        "name": "Sturmstillung"
+      },
+      {
+        "id": 8,
+        "name": "Zachäus"
+      },
+      {
+        "id": 9,
+        "name": "Barmherziger Samariter"
+      },
+      {
+        "id": 10,
+        "name": "SilentDisco"
+      },
+      {
+        "id": 11,
+        "name": "Speisung der 5000"
+      },
+      {
+        "id": 12,
+        "name": "Seligpreisung"
+      },
+      {
+        "id": 13,
+        "name": "Abendmahl"
+      },
+      {
+        "id": 14,
+        "name": "Kreuzweg"
+      },
+      {
+        "id": 15,
+        "name": "Osternacht"
+      },
+      {
+        "id": 16,
+        "name": "Gottesdienst"
+      },
+      {
+        "id": 17,
+        "name": "Workshops"
+      },
+      {
+        "id": 18,
+        "name": "Teamversorgung"
+      },
+      {
+        "id": 19,
+        "name": "Allgemein"
+      }
+    ],
+    "materials": [
+      {
+        "id": 1,
+        "name": "Beamer",
+        "unit": "Mal",
+        "stock": 3,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 2,
+        "name": "Red Band Super Hechte 100x",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 3,
+        "name": "Salzstangen 250g",
+        "unit": "Packungen",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 4,
+        "name": "Fladenbrote",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 5,
+        "name": "Weintrauben 500g",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 6,
+        "name": "Limo",
+        "unit": "Liter",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 7,
+        "name": "Teelichter",
+        "unit": "Stück",
+        "stock": 10,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 8,
+        "name": "Stumpenkerze",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 9,
+        "name": "Feuerzeug",
+        "unit": "Stück",
+        "stock": 4,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 10,
+        "name": "Flipchart Planwand",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 11,
+        "name": "Kreppband",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 12,
+        "name": "Moderationskoffer",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 13,
+        "name": "Eddings",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 14,
+        "name": "Moderationskarten 4Farben je 60stk",
+        "unit": "Stück",
+        "stock": 240,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 15,
+        "name": "Leinwand",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 16,
+        "name": "Holzbuchstaben viele",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 17,
+        "name": "Seile lang",
+        "unit": "Stück",
+        "stock": 5,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 18,
+        "name": "Hullahubreifen",
+        "unit": "Stück",
+        "stock": 4,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 19,
+        "name": "Moderationskarten 3 Farben",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 20,
+        "name": "Verkleidungskiste",
+        "unit": "Stück",
+        "stock": 3,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 21,
+        "name": "Papier A4",
+        "unit": "Stück",
+        "stock": 4,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 22,
+        "name": "Kugelschreiber",
+        "unit": "Stück",
+        "stock": 5,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 23,
+        "name": "Kreativkisten",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 24,
+        "name": "Plakate",
+        "unit": "Stück",
+        "stock": 50,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 25,
+        "name": "Musikbox",
+        "unit": "Stück",
+        "stock": 8,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 26,
+        "name": "Klangschalen",
+        "unit": "Stück",
+        "stock": 3,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 27,
+        "name": "Lichterketten",
+        "unit": "Stück",
+        "stock": 10,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 28,
+        "name": "Knicklichter",
+        "unit": "Stück",
+        "stock": 500,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 29,
+        "name": "Öl (z.B. Rosenöl)",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Andre",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 30,
+        "name": "Kerzenkiste",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 31,
+        "name": "Decken und Kissen",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 32,
+        "name": "Material Armbänder",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 33,
+        "name": "Wolle",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 34,
+        "name": "Tesafilm",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 35,
+        "name": "Steine",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 36,
+        "name": "Stifte für Steine",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 37,
+        "name": "Wachstischdecken",
+        "unit": "Stück",
+        "stock": 3,
+        "location": "KG Sandesneben",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 38,
+        "name": "Yoga Matten",
+        "unit": "Stück",
+        "stock": 8,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 39,
+        "name": "Henna",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 40,
+        "name": "Sitzsäcke",
+        "unit": "Stück",
+        "stock": 3,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 41,
+        "name": "Oblaten",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 42,
+        "name": "Abendmahlsgeschirr (Kelch, Teller und Dose)",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 43,
+        "name": "Traubensaft (weiß und rot, je 3 L)",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 44,
+        "name": "Poster",
+        "unit": "Stück",
+        "stock": 50,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 45,
+        "name": "Papier A3",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 46,
+        "name": "Kabelbinder",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 47,
+        "name": "Bälle",
+        "unit": "Beutel",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 48,
+        "name": "Boxen BK (Jaan) inkl Stativ",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "KG Berkenthin",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 49,
+        "name": "Stifte",
+        "unit": "Box",
+        "stock": 10,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 50,
+        "name": "Cajon",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 51,
+        "name": "Gitarre",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 52,
+        "name": "Liederbücher",
+        "unit": "Alle",
+        "stock": 4,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 53,
+        "name": "Einzelkelche",
+        "unit": "Alle",
+        "stock": 4,
+        "location": "KG Berkenthin",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 54,
+        "name": "Klemmbretter",
+        "unit": "Kiste",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 55,
+        "name": "Hocker",
+        "unit": "Stück",
+        "stock": 60,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 56,
+        "name": "Kamera mit Ladegerät und Akkus und SD Karten",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 57,
+        "name": "Notenständer",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 58,
+        "name": "Mischpult",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 59,
+        "name": "XLR Kabel",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 60,
+        "name": "Kaltgerätekabel",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 61,
+        "name": "Kabeltrommel",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 62,
+        "name": "Stromkabel",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 63,
+        "name": "Stagepiano mit Standfuß",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "KG Berkenthin",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 64,
+        "name": "Brotmesser und Brett",
+        "unit": "Stück",
+        "stock": 3,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 65,
+        "name": "Drucker",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "KG Sandesneben",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 66,
+        "name": "Pinnwand",
+        "unit": "Stück",
+        "stock": 2,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 67,
+        "name": "Gesellschaftsspiele",
+        "unit": "Alle",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 68,
+        "name": "Kaffeemaschine",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "KG Siebenbäumen",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 69,
+        "name": "Feuerholz",
+        "unit": "Beutel",
+        "stock": 2,
+        "location": "Andre",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 70,
+        "name": "Festivalbänder",
+        "unit": "Stück",
+        "stock": 90,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 71,
+        "name": "Batterien",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 72,
+        "name": "Funkgeräte",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 73,
+        "name": "Nebelmaschine inkl Flüssigkeit",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 74,
+        "name": "Diskokugel Ganz mit Antrieb",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 75,
+        "name": "Diskokugel halb",
+        "unit": "Mal",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 76,
+        "name": "Scheren",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 77,
+        "name": "Papierbox",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 78,
+        "name": "Flipchart Papier",
+        "unit": "Rolle",
+        "stock": 50,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 79,
+        "name": "Haushaltskisten",
+        "unit": "Alle",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 80,
+        "name": "Hygienebox",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 81,
+        "name": "Wassereimer",
+        "unit": "Stück",
+        "stock": 5,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 82,
+        "name": "Tücherkiste",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 83,
+        "name": "Klebeband",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 84,
+        "name": "Taschenlampen",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 85,
+        "name": "Outdoorspiele (Tischtennis, Fröbelturm, Wikingerschach,...)",
+        "unit": "Alle",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 86,
+        "name": "KU-Hefte",
+        "unit": "Alle",
+        "stock": 1,
+        "location": "Svenja",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 87,
+        "name": "TN-Hefte",
+        "unit": "Alle",
+        "stock": 1,
+        "location": "Svenja",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 88,
+        "name": "Wasserkocher",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 89,
+        "name": "Warmwasserbereiter",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 90,
+        "name": "Sofa",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 91,
+        "name": "el. Luftpumpe",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Svenja",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 92,
+        "name": "Werkzeug",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 93,
+        "name": "Telefonanlage mit Fritzbox und Gewichten",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 94,
+        "name": "Akkuschrauber",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Andre",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 95,
+        "name": "Laminiergerät mit Folien",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "KG Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 96,
+        "name": "Fidjet Toys",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 97,
+        "name": "Lichter Disko",
+        "unit": "Tasche",
+        "stock": 2,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 98,
+        "name": "Murmeln",
+        "unit": "Stück",
+        "stock": 20,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 99,
+        "name": "Seilzuschnitte",
+        "unit": "Tüte",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 100,
+        "name": "Teppichfliesen",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 101,
+        "name": "Wackelbretter inkl Rollen",
+        "unit": "Stück",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 102,
+        "name": "Filzstifte",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 103,
+        "name": "Straßenkreide",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 104,
+        "name": "Schokobons",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 105,
+        "name": "Moderationskarten blau grün",
+        "unit": "Stück",
+        "stock": 120,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 106,
+        "name": "Klebestifte",
+        "unit": "Box",
+        "stock": 1,
+        "location": "Jugend Nusse",
+        "note": "",
+        "packed": 0,
+        "consumable": 0
+      },
+      {
+        "id": 107,
+        "name": "Hefte zum Schreiben",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 108,
+        "name": "Bueno weiß",
+        "unit": "Packung",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 109,
+        "name": "Brot (verschiedene Sorten): Knäckebrot, Graubrot, Pumpernickel,...",
+        "unit": "Stück",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 110,
+        "name": "Krecker (TUC)",
+        "unit": "Packungen",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 111,
+        "name": "Softgetränke (Cola, Fanta, Sprite,...)",
+        "unit": "Kästen",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      },
+      {
+        "id": 112,
+        "name": "Kekse",
+        "unit": "Tüten",
+        "stock": 0,
+        "location": "",
+        "note": "",
+        "packed": 0,
+        "consumable": 1
+      }
+    ],
+    "material_stocks": [
+      {
+        "id": 1,
+        "material_id": 1,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 2,
+        "material_id": 1,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 3,
+        "material_id": 42,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 4,
+        "material_id": 94,
+        "location": "Andre",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 5,
+        "material_id": 47,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 6,
+        "material_id": 71,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 7,
+        "material_id": 48,
+        "location": "KG Berkenthin",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 8,
+        "material_id": 64,
+        "location": "KG Nusse",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 9,
+        "material_id": 50,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 10,
+        "material_id": 31,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 11,
+        "material_id": 74,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 12,
+        "material_id": 75,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 13,
+        "material_id": 65,
+        "location": "KG Sandesneben",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 14,
+        "material_id": 13,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 15,
+        "material_id": 53,
+        "location": "KG Berkenthin",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 16,
+        "material_id": 53,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 17,
+        "material_id": 53,
+        "location": "KG Sandesneben",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 18,
+        "material_id": 53,
+        "location": "KG Siebenbäumen",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 19,
+        "material_id": 91,
+        "location": "Svenja",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 20,
+        "material_id": 9,
+        "location": "Jugend Nusse",
+        "quantity": 4,
+        "packed": 0
+      },
+      {
+        "id": 21,
+        "material_id": 96,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 22,
+        "material_id": 78,
+        "location": "Jugend Nusse",
+        "quantity": 50,
+        "packed": 0
+      },
+      {
+        "id": 23,
+        "material_id": 10,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 24,
+        "material_id": 72,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 25,
+        "material_id": 67,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 26,
+        "material_id": 67,
+        "location": "KG Sandesneben",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 27,
+        "material_id": 51,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 28,
+        "material_id": 79,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 29,
+        "material_id": 39,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 30,
+        "material_id": 55,
+        "location": "Jugend Nusse",
+        "quantity": 60,
+        "packed": 0
+      },
+      {
+        "id": 31,
+        "material_id": 16,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 32,
+        "material_id": 18,
+        "location": "Jugend Nusse",
+        "quantity": 4,
+        "packed": 0
+      },
+      {
+        "id": 33,
+        "material_id": 80,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 34,
+        "material_id": 46,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 35,
+        "material_id": 61,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 36,
+        "material_id": 61,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 37,
+        "material_id": 68,
+        "location": "KG Siebenbäumen",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 38,
+        "material_id": 60,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 39,
+        "material_id": 56,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 40,
+        "material_id": 30,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 41,
+        "material_id": 26,
+        "location": "Jugend Nusse",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 42,
+        "material_id": 83,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 43,
+        "material_id": 54,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 44,
+        "material_id": 28,
+        "location": "Jugend Nusse",
+        "quantity": 500,
+        "packed": 0
+      },
+      {
+        "id": 45,
+        "material_id": 23,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 46,
+        "material_id": 11,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 47,
+        "material_id": 22,
+        "location": "Jugend Nusse",
+        "quantity": 5,
+        "packed": 0
+      },
+      {
+        "id": 48,
+        "material_id": 95,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 49,
+        "material_id": 15,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 51,
+        "material_id": 97,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 52,
+        "material_id": 27,
+        "location": "Jugend Nusse",
+        "quantity": 10,
+        "packed": 0
+      },
+      {
+        "id": 53,
+        "material_id": 52,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 54,
+        "material_id": 52,
+        "location": "KG Sandesneben",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 55,
+        "material_id": 32,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 56,
+        "material_id": 58,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 57,
+        "material_id": 19,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 58,
+        "material_id": 14,
+        "location": "Jugend Nusse",
+        "quantity": 240,
+        "packed": 0
+      },
+      {
+        "id": 59,
+        "material_id": 12,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 61,
+        "material_id": 25,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 62,
+        "material_id": 25,
+        "location": "KG Sandesneben",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 63,
+        "material_id": 25,
+        "location": "Jan Luca",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 64,
+        "material_id": 73,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 65,
+        "material_id": 57,
+        "location": "KG Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 66,
+        "material_id": 41,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 67,
+        "material_id": 85,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 68,
+        "material_id": 45,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 69,
+        "material_id": 21,
+        "location": "Jugend Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 70,
+        "material_id": 77,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 71,
+        "material_id": 66,
+        "location": "KG Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 72,
+        "material_id": 24,
+        "location": "Jugend Nusse",
+        "quantity": 50,
+        "packed": 0
+      },
+      {
+        "id": 73,
+        "material_id": 44,
+        "location": "Jugend Nusse",
+        "quantity": 50,
+        "packed": 0
+      },
+      {
+        "id": 74,
+        "material_id": 2,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 75,
+        "material_id": 76,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 76,
+        "material_id": 17,
+        "location": "Jugend Nusse",
+        "quantity": 5,
+        "packed": 0
+      },
+      {
+        "id": 77,
+        "material_id": 40,
+        "location": "Jugend Nusse",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 78,
+        "material_id": 63,
+        "location": "KG Berkenthin",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 79,
+        "material_id": 35,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 80,
+        "material_id": 49,
+        "location": "Jugend Nusse",
+        "quantity": 10,
+        "packed": 0
+      },
+      {
+        "id": 81,
+        "material_id": 36,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 82,
+        "material_id": 62,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 83,
+        "material_id": 8,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 84,
+        "material_id": 84,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 85,
+        "material_id": 7,
+        "location": "Jugend Nusse",
+        "quantity": 10,
+        "packed": 0
+      },
+      {
+        "id": 86,
+        "material_id": 93,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 87,
+        "material_id": 34,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 88,
+        "material_id": 82,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 89,
+        "material_id": 20,
+        "location": "Jugend Nusse",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 90,
+        "material_id": 37,
+        "location": "KG Sandesneben",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 91,
+        "material_id": 89,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 92,
+        "material_id": 81,
+        "location": "Jugend Nusse",
+        "quantity": 5,
+        "packed": 0
+      },
+      {
+        "id": 93,
+        "material_id": 88,
+        "location": "KG Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 94,
+        "material_id": 92,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 95,
+        "material_id": 33,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 96,
+        "material_id": 59,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 97,
+        "material_id": 38,
+        "location": "Jugend Nusse",
+        "quantity": 8,
+        "packed": 0
+      },
+      {
+        "id": 98,
+        "material_id": 102,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 99,
+        "material_id": 106,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 100,
+        "material_id": 105,
+        "location": "Jugend Nusse",
+        "quantity": 120,
+        "packed": 0
+      },
+      {
+        "id": 101,
+        "material_id": 98,
+        "location": "Jugend Nusse",
+        "quantity": 20,
+        "packed": 0
+      },
+      {
+        "id": 102,
+        "material_id": 21,
+        "location": "KG Nusse",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 103,
+        "material_id": 99,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 104,
+        "material_id": 100,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 105,
+        "material_id": 101,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 106,
+        "material_id": 70,
+        "location": "Jugend Nusse",
+        "quantity": 90,
+        "packed": 0
+      },
+      {
+        "id": 107,
+        "material_id": 69,
+        "location": "Andre",
+        "quantity": 2,
+        "packed": 0
+      },
+      {
+        "id": 108,
+        "material_id": 86,
+        "location": "Svenja",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 109,
+        "material_id": 25,
+        "location": "Team",
+        "quantity": 3,
+        "packed": 0
+      },
+      {
+        "id": 110,
+        "material_id": 103,
+        "location": "Jugend Nusse",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 111,
+        "material_id": 87,
+        "location": "Svenja",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 112,
+        "material_id": 1,
+        "location": "KG Berkenthin",
+        "quantity": 1,
+        "packed": 0
+      },
+      {
+        "id": 113,
+        "material_id": 29,
+        "location": "Andre",
+        "quantity": 1,
+        "packed": 0
+      }
+    ],
+    "needs": [
+      {
+        "id": 2,
+        "material_id": 2,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-0"
+      },
+      {
+        "id": 3,
+        "material_id": 3,
+        "quantity": 2,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-1"
+      },
+      {
+        "id": 4,
+        "material_id": 4,
+        "quantity": 4,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-2"
+      },
+      {
+        "id": 5,
+        "material_id": 5,
+        "quantity": 4,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-3"
+      },
+      {
+        "id": 6,
+        "material_id": 6,
+        "quantity": 12,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-4"
+      },
+      {
+        "id": 7,
+        "material_id": 7,
+        "quantity": 10,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-5"
+      },
+      {
+        "id": 8,
+        "material_id": 8,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-6"
+      },
+      {
+        "id": 9,
+        "material_id": 9,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-7"
+      },
+      {
+        "id": 10,
+        "material_id": 10,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-8"
+      },
+      {
+        "id": 11,
+        "material_id": 11,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-9"
+      },
+      {
+        "id": 12,
+        "material_id": 12,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-10"
+      },
+      {
+        "id": 13,
+        "material_id": 13,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-11"
+      },
+      {
+        "id": 14,
+        "material_id": 14,
+        "quantity": 240,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-12"
+      },
+      {
+        "id": 15,
+        "material_id": 15,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c2203f81-6d6e-4c4a-93a8-4c85eb1a7cf9-13"
+      },
+      {
+        "id": 16,
+        "material_id": 1,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9faa2bdc-2dc4-4c40-a1e4-2a5b053a2c31-0"
+      },
+      {
+        "id": 17,
+        "material_id": 16,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1a3da5c2-3cb6-4114-9793-685fd686e3c6-0"
+      },
+      {
+        "id": 18,
+        "material_id": 17,
+        "quantity": 4,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1a3da5c2-3cb6-4114-9793-685fd686e3c6-1"
+      },
+      {
+        "id": 19,
+        "material_id": 18,
+        "quantity": 4,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1a3da5c2-3cb6-4114-9793-685fd686e3c6-2"
+      },
+      {
+        "id": 20,
+        "material_id": 19,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1a3da5c2-3cb6-4114-9793-685fd686e3c6-3"
+      },
+      {
+        "id": 21,
+        "material_id": 13,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "8a2cf5af-c409-44f6-94e3-5f20a74c9b21-0"
+      },
+      {
+        "id": 22,
+        "material_id": 20,
+        "quantity": 3,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Zachäus",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "7c03ddef-72fa-4049-93de-7af6387f5f42-0"
+      },
+      {
+        "id": 23,
+        "material_id": 21,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Zachäus",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "7c03ddef-72fa-4049-93de-7af6387f5f42-1"
+      },
+      {
+        "id": 24,
+        "material_id": 22,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Zachäus",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "7c03ddef-72fa-4049-93de-7af6387f5f42-2"
+      },
+      {
+        "id": 25,
+        "material_id": 23,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Zachäus",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "7c03ddef-72fa-4049-93de-7af6387f5f42-3"
+      },
+      {
+        "id": 26,
+        "material_id": 24,
+        "quantity": 20,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Heilung des Gelähmten",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "d5cd7dd8-f9e8-4272-a984-ed365db612fc-0"
+      },
+      {
+        "id": 27,
+        "material_id": 13,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Heilung des Gelähmten",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "d5cd7dd8-f9e8-4272-a984-ed365db612fc-1"
+      },
+      {
+        "id": 28,
+        "material_id": 25,
+        "quantity": 7,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-0"
+      },
+      {
+        "id": 29,
+        "material_id": 26,
+        "quantity": 3,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-1"
+      },
+      {
+        "id": 30,
+        "material_id": 27,
+        "quantity": 10,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-2"
+      },
+      {
+        "id": 31,
+        "material_id": 28,
+        "quantity": 25,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-3"
+      },
+      {
+        "id": 32,
+        "material_id": 29,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-4"
+      },
+      {
+        "id": 33,
+        "material_id": 30,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-5"
+      },
+      {
+        "id": 34,
+        "material_id": 31,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-6"
+      },
+      {
+        "id": 35,
+        "material_id": 32,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-7"
+      },
+      {
+        "id": 36,
+        "material_id": 33,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-8"
+      },
+      {
+        "id": 37,
+        "material_id": 34,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-9"
+      },
+      {
+        "id": 38,
+        "material_id": 35,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-10"
+      },
+      {
+        "id": 39,
+        "material_id": 36,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-11"
+      },
+      {
+        "id": 40,
+        "material_id": 37,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-12"
+      },
+      {
+        "id": 41,
+        "material_id": 38,
+        "quantity": 8,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-13"
+      },
+      {
+        "id": 42,
+        "material_id": 39,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-14"
+      },
+      {
+        "id": 43,
+        "material_id": 40,
+        "quantity": 3,
+        "date": "2026-10-12",
+        "period": "Abends",
+        "unit_name": "Abend der Stille",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "9a3070a5-17da-498a-b0a4-1acc60d32bd5-15"
+      },
+      {
+        "id": 44,
+        "material_id": 41,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "b178e09f-7dc5-4f74-ac81-271b0a3bdb59-0"
+      },
+      {
+        "id": 45,
+        "material_id": 42,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "b178e09f-7dc5-4f74-ac81-271b0a3bdb59-1"
+      },
+      {
+        "id": 46,
+        "material_id": 43,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "b178e09f-7dc5-4f74-ac81-271b0a3bdb59-2"
+      },
+      {
+        "id": 47,
+        "material_id": 44,
+        "quantity": 25,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-0"
+      },
+      {
+        "id": 48,
+        "material_id": 21,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-1"
+      },
+      {
+        "id": 49,
+        "material_id": 45,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-2"
+      },
+      {
+        "id": 50,
+        "material_id": 46,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-3"
+      },
+      {
+        "id": 51,
+        "material_id": 47,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-4"
+      },
+      {
+        "id": 52,
+        "material_id": 13,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-5"
+      },
+      {
+        "id": 53,
+        "material_id": 22,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-6"
+      },
+      {
+        "id": 54,
+        "material_id": 48,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-7"
+      },
+      {
+        "id": 55,
+        "material_id": 49,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-8"
+      },
+      {
+        "id": 56,
+        "material_id": 50,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-9"
+      },
+      {
+        "id": 57,
+        "material_id": 51,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-10"
+      },
+      {
+        "id": 58,
+        "material_id": 52,
+        "quantity": 4,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-11"
+      },
+      {
+        "id": 59,
+        "material_id": 53,
+        "quantity": 4,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-12"
+      },
+      {
+        "id": 60,
+        "material_id": 54,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-13"
+      },
+      {
+        "id": 61,
+        "material_id": 55,
+        "quantity": 40,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-14"
+      },
+      {
+        "id": 62,
+        "material_id": 56,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-15"
+      },
+      {
+        "id": 63,
+        "material_id": 57,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-16"
+      },
+      {
+        "id": 64,
+        "material_id": 58,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-17"
+      },
+      {
+        "id": 65,
+        "material_id": 59,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-18"
+      },
+      {
+        "id": 66,
+        "material_id": 60,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-19"
+      },
+      {
+        "id": 67,
+        "material_id": 61,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-20"
+      },
+      {
+        "id": 68,
+        "material_id": 62,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-21"
+      },
+      {
+        "id": 69,
+        "material_id": 63,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-22"
+      },
+      {
+        "id": 70,
+        "material_id": 64,
+        "quantity": 3,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-23"
+      },
+      {
+        "id": 71,
+        "material_id": 65,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-24"
+      },
+      {
+        "id": 72,
+        "material_id": 66,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-25"
+      },
+      {
+        "id": 73,
+        "material_id": 67,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-26"
+      },
+      {
+        "id": 74,
+        "material_id": 68,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-27"
+      },
+      {
+        "id": 75,
+        "material_id": 69,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-28"
+      },
+      {
+        "id": 76,
+        "material_id": 70,
+        "quantity": 90,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-29"
+      },
+      {
+        "id": 77,
+        "material_id": 71,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-30"
+      },
+      {
+        "id": 78,
+        "material_id": 72,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-31"
+      },
+      {
+        "id": 79,
+        "material_id": 73,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-32"
+      },
+      {
+        "id": 80,
+        "material_id": 74,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-33"
+      },
+      {
+        "id": 81,
+        "material_id": 75,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-34"
+      },
+      {
+        "id": 82,
+        "material_id": 76,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-35"
+      },
+      {
+        "id": 83,
+        "material_id": 23,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-36"
+      },
+      {
+        "id": 84,
+        "material_id": 77,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-37"
+      },
+      {
+        "id": 85,
+        "material_id": 78,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-38"
+      },
+      {
+        "id": 86,
+        "material_id": 79,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-39"
+      },
+      {
+        "id": 87,
+        "material_id": 80,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-40"
+      },
+      {
+        "id": 88,
+        "material_id": 81,
+        "quantity": 5,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-41"
+      },
+      {
+        "id": 89,
+        "material_id": 82,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-42"
+      },
+      {
+        "id": 90,
+        "material_id": 83,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-43"
+      },
+      {
+        "id": 91,
+        "material_id": 84,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-44"
+      },
+      {
+        "id": 92,
+        "material_id": 85,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-45"
+      },
+      {
+        "id": 93,
+        "material_id": 86,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-46"
+      },
+      {
+        "id": 94,
+        "material_id": 87,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-47"
+      },
+      {
+        "id": 95,
+        "material_id": 88,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-48"
+      },
+      {
+        "id": 96,
+        "material_id": 89,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-49"
+      },
+      {
+        "id": 97,
+        "material_id": 90,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-50"
+      },
+      {
+        "id": 98,
+        "material_id": 91,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-51"
+      },
+      {
+        "id": 99,
+        "material_id": 92,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-52"
+      },
+      {
+        "id": 100,
+        "material_id": 93,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-53"
+      },
+      {
+        "id": 101,
+        "material_id": 94,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-54"
+      },
+      {
+        "id": 102,
+        "material_id": 95,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-55"
+      },
+      {
+        "id": 103,
+        "material_id": 96,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-56"
+      },
+      {
+        "id": 104,
+        "material_id": 97,
+        "quantity": 2,
+        "date": "2026-10-10",
+        "period": "Ganztags",
+        "unit_name": "Allgemein",
+        "person": "Alle",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "bdaf1932-c797-45f6-babc-30f4c3d0c904-57"
+      },
+      {
+        "id": 106,
+        "material_id": 1,
+        "quantity": 1,
+        "date": "2026-10-10",
+        "period": "Nachmittags",
+        "unit_name": "Berufung",
+        "person": "Holger",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "dc44df79-5664-4148-a1db-0a0a4a4ee74f-0"
+      },
+      {
+        "id": 107,
+        "material_id": 98,
+        "quantity": 20,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-0"
+      },
+      {
+        "id": 108,
+        "material_id": 99,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-1"
+      },
+      {
+        "id": 109,
+        "material_id": 100,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-2"
+      },
+      {
+        "id": 110,
+        "material_id": 73,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-3"
+      },
+      {
+        "id": 111,
+        "material_id": 101,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-4"
+      },
+      {
+        "id": 112,
+        "material_id": 78,
+        "quantity": 10,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-5"
+      },
+      {
+        "id": 113,
+        "material_id": 25,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-6"
+      },
+      {
+        "id": 114,
+        "material_id": 1,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Sturmstillung",
+        "person": "Jan-Luca",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "11defb45-52bd-4bf0-8ae6-423b9f5edd73-7"
+      },
+      {
+        "id": 115,
+        "material_id": 102,
+        "quantity": 1,
+        "date": "2026-10-13",
+        "period": "Ganztags",
+        "unit_name": "Seligpreisung",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1d40caf6-5f13-4f10-b5c9-a5e93954677d-0"
+      },
+      {
+        "id": 116,
+        "material_id": 21,
+        "quantity": 1,
+        "date": "2026-10-13",
+        "period": "Ganztags",
+        "unit_name": "Seligpreisung",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1d40caf6-5f13-4f10-b5c9-a5e93954677d-1"
+      },
+      {
+        "id": 117,
+        "material_id": 22,
+        "quantity": 1,
+        "date": "2026-10-13",
+        "period": "Ganztags",
+        "unit_name": "Seligpreisung",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1d40caf6-5f13-4f10-b5c9-a5e93954677d-2"
+      },
+      {
+        "id": 118,
+        "material_id": 78,
+        "quantity": 1,
+        "date": "2026-10-13",
+        "period": "Ganztags",
+        "unit_name": "Seligpreisung",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "1d40caf6-5f13-4f10-b5c9-a5e93954677d-3"
+      },
+      {
+        "id": 119,
+        "material_id": 103,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Nachmittags",
+        "unit_name": "Kreuzweg",
+        "person": "Tita",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "51c3954e-56b3-4e4b-bba3-e7820fdb6566-0"
+      },
+      {
+        "id": 120,
+        "material_id": 13,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Nachmittags",
+        "unit_name": "Kreuzweg",
+        "person": "Tita",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "51c3954e-56b3-4e4b-bba3-e7820fdb6566-1"
+      },
+      {
+        "id": 121,
+        "material_id": 104,
+        "quantity": 120,
+        "date": "2026-10-14",
+        "period": "Nachmittags",
+        "unit_name": "Kreuzweg",
+        "person": "Tita",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "51c3954e-56b3-4e4b-bba3-e7820fdb6566-2"
+      },
+      {
+        "id": 122,
+        "material_id": 105,
+        "quantity": 120,
+        "date": "2026-10-14",
+        "period": "Nachmittags",
+        "unit_name": "Kreuzweg",
+        "person": "Tita",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "51c3954e-56b3-4e4b-bba3-e7820fdb6566-3"
+      },
+      {
+        "id": 123,
+        "material_id": 66,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Nachmittags",
+        "unit_name": "Kreuzweg",
+        "person": "Tita",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "51c3954e-56b3-4e4b-bba3-e7820fdb6566-4"
+      },
+      {
+        "id": 124,
+        "material_id": 76,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Barmherziger Samariter",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "41e91e8b-3814-4cc2-85d1-9be79bfde883-0"
+      },
+      {
+        "id": 125,
+        "material_id": 49,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Barmherziger Samariter",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "41e91e8b-3814-4cc2-85d1-9be79bfde883-1"
+      },
+      {
+        "id": 126,
+        "material_id": 25,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Barmherziger Samariter",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "41e91e8b-3814-4cc2-85d1-9be79bfde883-2"
+      },
+      {
+        "id": 127,
+        "material_id": 106,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Barmherziger Samariter",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "41e91e8b-3814-4cc2-85d1-9be79bfde883-3"
+      },
+      {
+        "id": 128,
+        "material_id": 21,
+        "quantity": 1,
+        "date": "2026-10-12",
+        "period": "Ganztags",
+        "unit_name": "Barmherziger Samariter",
+        "person": "Knud",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "41e91e8b-3814-4cc2-85d1-9be79bfde883-4"
+      },
+      {
+        "id": 129,
+        "material_id": 1,
+        "quantity": 1,
+        "date": "2026-10-11",
+        "period": "Ganztags",
+        "unit_name": "Heilung des Gelähmten",
+        "person": "Svenja",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "c3b62e9c-44ab-4908-9a60-34c16eda659f-0"
+      },
+      {
+        "id": 130,
+        "material_id": 107,
+        "quantity": 30,
+        "date": "2026-10-11",
+        "period": "Mittagspause",
+        "unit_name": "Workshops",
+        "person": "Nora",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "833217d5-94db-491b-82c0-3cba7c7fc45a-0"
+      },
+      {
+        "id": 131,
+        "material_id": 109,
+        "quantity": 1,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "df3513b1-3320-4e3e-98f9-622bb9c64edb-0"
+      },
+      {
+        "id": 132,
+        "material_id": 110,
+        "quantity": 4,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "df3513b1-3320-4e3e-98f9-622bb9c64edb-1"
+      },
+      {
+        "id": 133,
+        "material_id": 111,
+        "quantity": 3,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "df3513b1-3320-4e3e-98f9-622bb9c64edb-2"
+      },
+      {
+        "id": 134,
+        "material_id": 112,
+        "quantity": 2,
+        "date": "2026-10-14",
+        "period": "Ganztags",
+        "unit_name": "Abendmahl",
+        "person": "Marie",
+        "project": "KonfiCamp",
+        "start_time": "",
+        "end_time": "",
+        "request_key": "4ce0b98c-333e-45ff-9de4-c8728d275b14-0"
+      }
+    ],
+    "portal_wishes": [
+      {
+        "id": 1,
+        "material_id": 108,
+        "requester": "Andre",
+        "quantity": 1,
+        "unit": "Packung",
+        "image_key": null,
+        "request_key": "bd3444f4-a67e-4f46-92ab-17bbef48b950",
+        "created_at": 1791200418745,
+        "fulfilled_at": null
+      }
+    ]
+  }
+}
